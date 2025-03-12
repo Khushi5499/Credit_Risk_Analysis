@@ -29,23 +29,24 @@ This project analyzes credit risk using a combination of **SQL-based data analys
    - Built and compared Logistic Regression, Decision Tree, and Random Forest models  
    - Evaluated performance using accuracy, AUC, and other metrics
   
-4. **Questions used in SQL:**
-   
-Check total records loaded
-View first 10 records
-Check default vs. non-default customers
-Find customers with low credit scores (Risky borrowers)
-Find average loan amount by employment status
-Find the Top 5 Highest Loan Amounts with Customer Details
-Find the Average Interest Rate and Loan Duration for Each Employment Status
-Find Customers with High Debt-to-Income Ratio and Low Credit Score
-Count the Number of Defaults by Age Group
-Find the Percentage of Default Cases by Employment Status
-Identify the Top 3 Customers with the Highest Late Payments
-Find the Total Loan Amount Approved vs Defaulted
-Find the Correlation Between Credit Score and Interest Rate
-Find the Average Number of Late Payments for Each Loan Status
-Find Customers with High Loan Amounts but Low Credit Scores
+# 📊 ** SQL Questions**  
+
+1. **Check total records loaded**  
+2. **View first 10 records**  
+3. **Check default vs. non-default customers**  
+4. **Find customers with low credit scores (Risky borrowers)**  
+5. **Find average loan amount by employment status**  
+6. **Find the Top 5 Highest Loan Amounts with Customer Details**  
+7. **Find the Average Interest Rate and Loan Duration for Each Employment Status**  
+8. **Find Customers with High Debt-to-Income Ratio and Low Credit Score**  
+9. **Count the Number of Defaults by Age Group**  
+10. **Find the Percentage of Default Cases by Employment Status**  
+11. **Identify the Top 3 Customers with the Highest Late Payments**  
+12. **Find the Total Loan Amount Approved vs Defaulted**  
+13. **Find the Correlation Between Credit Score and Interest Rate**  
+14. **Find the Average Number of Late Payments for Each Loan Status**  
+15. **Find Customers with High Loan Amounts but Low Credit Scores**  
+
 
 
 
